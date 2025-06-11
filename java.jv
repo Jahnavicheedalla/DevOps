@@ -25,5 +25,6 @@ def squaresum(n):
 n = 4
 print(squaresum(n))
 
-# This code is contributed by Nikita Tiwari.*/
-sum of square into the first n naturdfghtyal
+# This code is contributed by Nikita Tiwari.*
+# code is condition in the square in natural
+sum of sqaure into the  first n natural
